@@ -3,3 +3,6 @@ Imogi
 Type
 Colours
 Vibrent
+
+video calls
+Dark Mode

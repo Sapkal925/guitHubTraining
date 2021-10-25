@@ -6,3 +6,7 @@ Vibrent
 
 video calls
 Dark Mode
+
+Payment Option
+Send Money
+Receive Money
